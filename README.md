@@ -48,7 +48,7 @@ pip install tensorboardX==1.2
 
 ## Results
 <p align="center">
-<img src="fig/continual_perf.jpg" width="500">
+<img src="fig/continual_perf.png" width="500">
 </p>
 
 ## Experiments
@@ -60,7 +60,7 @@ To run the experiments on MNIST-R, MNIST-P, and iCIFAR-100, excute script run_ex
 
 ## Pretrained Model
 ### iCIFAR-100
-The pre-trained models, i.e., EfficientNet-B1 w.r.t. various DCL effetive windows, and corresponding training log/performance are are available at the shared drive [continual_pretrained](https://drive.google.com/open?id=1PxwiR29DLIsq4CYq9YS6pEjD239gS0XG).
+The pre-trained models, i.e., EfficientNet-B1 w.r.t. various DCL effetive windows, and corresponding training log/performance are are available at the shared drive [continual_pretrained](https://drive.google.com/open?id=12eZKBikGRpjK-0CH5iPfN4_p_Vn-FKTR).
 
 ## Citation
 If you find this work or the code useful in your research, please consider citing:
