@@ -65,10 +65,15 @@ The pre-trained models, i.e., EfficientNet-B1 w.r.t. various DCL effetive window
 ## Citation
 If you find this work or the code useful in your research, please consider citing:
 
-	@article{Luo_DCL_2019,
-	  title={Direction Concentration Learning: Enhancing Congruency in Machine Learning},
-	  author={Luo, Yan and Wong, Yongkang and Kankanhalli, Mohan S and Zhao, Qi}
-	}
+    @article{Luo_DCL_2019,
+        author={Y. {Luo} and Y. {Wong} and M. {Kankanhalli} and Q. {Zhao}},
+        journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+        title={Direction Concentration Learning: Enhancing Congruency in Machine Learning},
+        year={2019},
+        pages={1-1},
+        doi={10.1109/TPAMI.2019.2963387},
+        ISSN={1939-3539}
+    }
 
 
 ## Contact
